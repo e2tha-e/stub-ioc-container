@@ -2,8 +2,8 @@
   "name": "stub-ioc-container",
   "description": "Stubbed Inversion of Control Container",
   "scripts": {
-    "start": "ts-node demo",
-    "test": "ts-node tests/tests"
+    "start": "ts-node demo.ts",
+    "test": "ts-node tests/tests.ts"
   },
   "type": "module",
   "devDependencies": {
